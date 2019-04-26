@@ -1,0 +1,2 @@
+Task 3)
+      F(1) is called thhe F(n) number of times as F(n) is addition of 1
